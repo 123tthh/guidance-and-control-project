@@ -1,0 +1,2 @@
+method_id,method_name,t_end_s,hit,miss_m,terminal_miss_m,t_miss_min_s,peak_abs_a_n_g,terminal_a_n_g,terminal_qdot_deg_s
+pn_K4,比例导引法 K=4,7.174531936701,1,1.80072931923207,1.80072931923207,7.174531936701,1192.63244389711,1192.63244389711,167.528976876129

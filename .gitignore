@@ -1,0 +1,24 @@
+# MATLAB and Simulink generated files
+**/slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.mex*
+codegen/
+sccprj/
+sfprj/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

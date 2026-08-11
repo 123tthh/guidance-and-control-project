@@ -1,0 +1,2 @@
+method_id,method_name,t_end_s,hit,miss_m,terminal_miss_m,t_miss_min_s,peak_abs_a_n_g,terminal_a_n_g,terminal_qdot_deg_s
+pursuit,追踪法,7.55985526448042,1,0.0113987284098597,0.0126016901934809,7.55980726822148,211603.969191731,-211603.969191731,-118895.965451957
