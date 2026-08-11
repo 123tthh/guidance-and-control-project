@@ -14,11 +14,17 @@ A MATLAB/Simulink course project for modeling, simulation, and analysis of guida
 
 ## Results
 
+### Tacview visualization
+
+Simulation outputs can be exported to Tacview for an intuitive view of orbital motion and vehicle attitude evolution.
+
+![Tacview spacecraft attitude visualization](1/tacview/3.png)
+
 ### Spacecraft attitude response
 
 The three attitude angles converge from their initial offsets under the closed-loop controller.
 
-![Three-axis attitude response](1/%E5%AE%9E%E9%AA%8C1/%E4%B8%89%E8%BD%B4%E5%A7%BF%E6%80%81%E8%A7%92%E5%93%8D%E5%BA%94.png)
+![Three-axis attitude response](1/%E4%B8%89%E8%BD%B4%E5%A7%BF%E6%80%81%E8%A7%92%E5%93%8D%E5%BA%94.png)
 
 ### Guidance-law trajectory comparison
 
@@ -34,7 +40,7 @@ The same engagement geometry is simulated with three guidance strategies to comp
 
 ```text
 .
-├── 1/实验1/                 # Spacecraft attitude-control experiment
+├── 1/                       # Spacecraft attitude-control experiment
 │   ├── satelliteACModel.slx
 │   ├── satelliteACSetup.m
 │   ├── satelliteACPlot.m
@@ -63,7 +69,7 @@ The project was developed as coursework. Exact compatibility can depend on the M
 
 ### 1. Spacecraft attitude control
 
-Open MATLAB in `1/实验1` and run:
+Open MATLAB in `1` and run:
 
 ```matlab
 satelliteACSetup
@@ -101,4 +107,4 @@ The repository includes the complete consolidated report as [`实验报告.pdf`]
 
 ## License
 
-No open-source license is currently granted. The source and reports are provided for viewing and educational reference unless the repository owner states otherwise.
+This project is released under the [MIT License](LICENSE). Course reports and third-party software or assets remain subject to their respective rights and terms.
